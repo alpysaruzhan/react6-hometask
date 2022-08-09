@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "brand": "Видеокарта Gigabyte",
+      "model": " RTX 2060, GV-N2060D6-6GD, 6GB GDDR6 192bit, Windforce 2xFan, 3xDP, HDMI BOX",
+      "price": 227960,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/151/340_340_140cd750bba9870f18aada2478b24840a/151bca6c87d688af46cf02443b0f89cf.png"
+    },
+    {
+      "id": 1,
+      "brand": "Твердотельный накопитель SSD Patriot Viper",
+      "model": "VP4300, VP4300-1TBM28H [1 ТБ, M.2 2280 PCI-E, чтение: 7400 МБ/с, запись: 5500 МБ/с, TLC]",
+      "price": 78310,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/f2f/340_340_140cd750bba9870f18aada2478b24840a/f2fbea6a0fbe0543c9ef68a5e06f41fc.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Твердотельный накопитель SSD Kingston",
+      "model": "A400 (SA400S37/240G) 240 ГБ, 2.5 SATA III, чтение: 500 МБ/с, запись: 350 МБ/с, TLC",
+      "price": 13750,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/232/340_340_140cd750bba9870f18aada2478b24840a/2325686e1936cad97b09cb1756b5d0a9.jpeg"
+    },
+    {
+      "id": 3,
+      "brand": "Твердотельный накопитель Whalekom",
+      "model": "NVME SSD 1TB M2 [1 ТБ, M.2 2280 PCI-E, чтение: 3500 МБ/с, запись: 3200 МБ/с, TLC]",
+      "price": 46270,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/1e4/340_340_140cd750bba9870f18aada2478b24840a/1e441cd9da2c3f18a46abc6ec9452128.png"
+    },
+    {
+      "id": 4,
+      "brand": "Видеокарта ASUS ",
+      "model": "ROG Strix GeForce RTX 3090 GAMING OC [STRIX-RTX3090-O24G-GAMING] [24 ГБ, GDDR6X, 384 бит, 1400 МГц, 1890 МГц, HDMI (2 шт), DisplayPort (3 шт)]",
+      "price": 1084800,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/efe/340_340_140cd750bba9870f18aada2478b24840a/efed14b37148103608dd43ab1801cb35.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Видеокарта Palit",
+      "model": "GeForce RTX 3060 Dual, 12 GB/ GDDR6/ 192 bit, (NE63060019K9-190AD) NE63060019K9-190AD",
+      "price": 336040,
+      "image": "https://forcecom.kz/upload/iblock/983/9831910331959dd0550c373096f64d59.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Видеокарта ZOTAC",
+      "model": "GAMING GEFORCE GTX1650 OC [4 ГБ, GDDR6, 128 бит, 1410 МГц, 1620 МГц, DVI, HDMI, DisplayPort]",
+      "price": 144350,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/05b/340_340_140cd750bba9870f18aada2478b24840a/05bf256e7dd7e5b5ef2d015d7dbcd530.png"
+    },
+    {
+      "id": 7,
+      "brand": "Внешняя USB видеокарта Wavlink",
+      "model": "WL-UG35D6",
+      "price": 21060,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/f0c/340_340_140cd750bba9870f18aada2478b24840a/f0ccb4b2ccff9946b9ac51f7bd2fe853.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Видеокарта ASUS ",
+      "model": " GeForce RTX 3070 Noctua OC Edition, RTX3070-O8G-NOCTUA [8 ГБ, GDDR6, 256 бит, 1500 МГц, 1845 МГц, HDMI (2 шт), DisplayPort (3 шт)]",
+      "price": 461040,
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/b9a/340_340_140cd750bba9870f18aada2478b24840a/b9a0c04248a50bcff0c456c1a06af28f.jpg"
+    }
+  ],
+  "serv": [
+    {
+      "id": 0,
+      "zagolovok": "Подать заявку на ремонт и/или настройку техники",
+      "p": "Обслуживаем только приобретенную у нас технику. Для получения услуги ремонта или настройки заполните заявку и дождитесь ответа наших специалистов.",
+      "image": "https://forcecom.kz/upload/resize_cache/iblock/d90/190_130_2/d90c70c3d3f9e75c4e5a537de2b65734.jpg"
+    }
+  ]
+}
